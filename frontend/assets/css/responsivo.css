@@ -1,0 +1,66 @@
+@media (max-width: 1024px) {
+    .header {
+        justify-content: center;
+        flex-direction: column;
+        padding: 50px 0;
+        gap: 15px;
+    }
+    
+    .header .menu li a {
+        padding: 15px;
+    }
+
+    .home .informations {
+        padding: 30px;
+    }
+
+    .home .informations img {
+        max-width: 100px;
+    }
+    
+    .home .informations .tittle {
+        font-size: 40px;
+    }
+
+    .buy .card {
+        width: 70%;
+    }
+}
+
+@media (max-width: 768px) {
+    .buy {
+        padding: 30px;
+    }
+
+    .buy .card{
+        padding: 80px 20px;
+        width: 100%;
+    }
+
+    .buy .informations h3 {
+        font-size: 35px;
+    }
+
+    .buy .informations .platforms {
+        flex-direction: column;
+    }
+
+    .btn-platforms {
+        margin-top: 15px;
+        padding: 15px;
+    }
+
+    .btn-buy {
+        width: 100%;
+    }
+}
+
+@media (max-width: 425px) {
+    main::after {
+        background: linear-gradient(90deg, rgba(0, 0, 0, 0.85), rgba(0, 0, 0, 0.4) 100%, transparent 65%);
+    }
+
+    .buy .card .game-cover {
+        max-width: 80%;
+    }
+}
