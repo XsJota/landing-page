@@ -1,10 +1,10 @@
-# Landing Page de Compra - GTA V
+# Landing Page - GTA V
 
 Esta é uma landing page simples para promover a compra do jogo GTA V. Foi desenvolvida usando HTML, CSS e JavaScript.
 
 ## Conteúdo
 
-- [Landing Page de Compra - GTA V](#landing-page-de-compra---gta-v)
+- [Landing Page - GTA V](#landing-page---gta-v)
   - [Conteúdo](#conteúdo)
   - [Recursos](#recursos)
   - [Instruções de Uso](#instruções-de-uso)
