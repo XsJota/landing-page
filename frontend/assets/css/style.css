@@ -46,7 +46,7 @@ body {
     position: absolute;
     height: 100%;
     width: 100%;
-    background: linear-gradient(90 deg, rgba(0, 0, 0, .85), rgba(0, 0, 0, .7) 35%, transparent 65%);
+    background: linear-gradient(90deg, rgba(0, 0, 0, .85), rgba(0, 0, 0, .7) 35%, transparent 65%);
 }
 
 .home .background-image {
@@ -55,7 +55,6 @@ body {
 }
 
 .home .informations {
-    background-color: blueviolet;
     position: absolute;
     z-index: 1;
     min-height: calc(100vh - 80px);
